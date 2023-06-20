@@ -19,6 +19,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Ticketing-Project-Microservice" options="" />
       <module name="app-client-management" options="-parameters" />
       <module name="app-domain-model" options="-parameters" />
       <module name="config-service" options="-parameters" />
